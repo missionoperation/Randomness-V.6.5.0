@@ -9,6 +9,5 @@
 ### Click code and click download Zip. Once you do that it will send you a file. Open the file and it will open to a folder of everything. In that folder there is a file called index.html open that up and it should open into a tab ###
 # #
 ## Please enjoy this site for good not for bad and thank you for reading this ##
-![alt text](http://url/to/img.png)
-
+[click here](https://raw.githack.com/missionoperation/Randomness-V.5.5/main/Index.html)
 
